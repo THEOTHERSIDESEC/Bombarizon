@@ -1,4 +1,4 @@
-![Explosion!!](https://imgur.com/download/FPZPLK9)
+
 
 ## Features
 - Lots of integrated SMS APIs, and support for custom API configuration!
