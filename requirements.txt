@@ -1,0 +1,2 @@
+httpx[http2] >= 0.16.1
+requests >= 2.24.0
