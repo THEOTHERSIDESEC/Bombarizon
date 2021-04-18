@@ -22,6 +22,9 @@ import json
 import requests
 import random
 import time
+import os
+
+os.system('clear')
 
 ascii_art = r"""
 
